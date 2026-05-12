@@ -25,7 +25,7 @@
             "Compliance"
         ],
         // URL where the user can learn more about the plugin
-        "url": "https://github.com/yourusername/smart-dq-rules-generator",
+        "url": "https://github.com/ckwonc/dssPlugin-smart-dq-rules/",
         "licenseInfo": "Apache Software License"
     }
 }
